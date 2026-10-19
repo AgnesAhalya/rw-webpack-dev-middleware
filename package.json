@@ -92,7 +92,7 @@
     "prettier": "^3.6.0",
     "router": "^2.2.0",
     "supertest": "^7.0.0",
-    "typescript": "^6.0.2",
+    "typescript": "^7.0.2",
     "webpack": "^5.109.0"
   },
   "peerDependencies": {
